@@ -1,4 +1,4 @@
-# note_quizzer
+# quiz_me
 One principle of learning is that "recall" is better than "review." This is why being quizzed on material (such as through flashcards) is more helpful than rereading notes. This program uses NLP to locate noun phrases in a set of notes and randomly blanks them out so the user is forced to recall information when rereading notes
 
 ## Example:
